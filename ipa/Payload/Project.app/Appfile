@@ -1,0 +1,8 @@
+app_identifier("net.caidaoquan.cdh") # The bundle identifier of your app
+apple_id("zhangbeibei@caidaoquan.net") # Your Apple email address
+
+itc_team_id("123479381") # App Store Connect Team ID
+team_id("YYLJNRN4K8") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
